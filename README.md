@@ -13,7 +13,7 @@ A Bash-based tool to monitor system health, including CPU usage, memory consumpt
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/System-Health-Monitor.git
+    git clone https://github.com/Abdelwakil-Mansour/System-Health-Monitor.git 
     cd System-Health-Monitor
     ```
 
@@ -29,7 +29,7 @@ A Bash-based tool to monitor system health, including CPU usage, memory consumpt
 
 ## Screenshot
 
-![System Health Monitor Screenshot](screenshot.png)
+![System Health Monitor Screenshot](https://github.com/Abdelwakil-Mansour/System-Health-Monitor/blob/main/screenshot.PNG)
 
 ## Requirements
 
